@@ -14,3 +14,6 @@ I don't know what this section is for.
 
 ## How to Contribute
 Just ask and you can add stuff.
+
+## Copyright
+Copyright 2016 Chris Franklin
