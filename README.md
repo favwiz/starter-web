@@ -10,5 +10,7 @@ This is an example of how to create a web page.
 Sample website with plenty of files for demos
 
 ## Deployment
+I don't know what this section is for.
 
 ## How to Contribute
+Just ask and you can add stuff.
