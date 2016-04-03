@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chris Franklin chris@lexmark.com
 
 # THANKS
 
