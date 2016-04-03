@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 I don't know what this section is for.
 
 ## How to Contribute
-Just ask and you can add stuff.
+Please fork this repository and then add pull requests for review.
 
 ## Copyright
 Copyright 2016 Chris Franklin
