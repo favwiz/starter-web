@@ -17,4 +17,4 @@ I don't know what this section is for.
 Please fork this repository and then add pull requests for review.
 
 ## Copyright
-Copyright 2016 Chris Franklin
+Copyright 2016 Chris Franklin.  All rights reserved.
